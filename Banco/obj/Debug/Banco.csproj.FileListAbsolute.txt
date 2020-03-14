@@ -1,0 +1,10 @@
+C:\Users\csharp8761\Desktop\Projetos\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\csharp8761\Desktop\Projetos\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\csharp8761\Desktop\Projetos\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\csharp8761\Desktop\Projetos\Banco\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+C:\Users\csharp8761\Desktop\Projetos\Banco\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\csharp8761\Desktop\Projetos\Banco\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\csharp8761\Desktop\Projetos\Banco\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\csharp8761\Desktop\Projetos\Banco\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\csharp8761\Desktop\Projetos\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\csharp8761\Desktop\Projetos\Banco\Banco\obj\Debug\Banco.pdb
